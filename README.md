@@ -20,7 +20,7 @@ https://github.com/mahdddadg
 
 # 📌 Project Overview
 
-This project focuses on using **Power BI** and **Power Query** to clean in this specic project i did not use SQL, transform, and visualize raw data into interactive dashboards and meaningful  insights.
+This project focuses on using **Power BI** and **Power Query** to clean in this specic project (I did not use SQL for this project), To transform, and visualize raw data into interactive dashboards and meaningful  insights.
 
 The objective of this project is to:
 
