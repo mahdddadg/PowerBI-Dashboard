@@ -34,7 +34,7 @@ The objective of this project is to:
 This project demonstrates a complete **data preparation and dashboard development process** inside Power BI: 
 
 ---
-
+***** IN ORDER TO RUN THE DASHBOARD DOWNLOAD : DATA.SURVERY.PBIX AND RUN IT ON POWERBI ****
 
 
 
@@ -44,7 +44,7 @@ This project demonstrates a complete **data preparation and dashboard developmen
 
 ---
 
-# 🗂️ Project Structure : ***** IN ORDER TO RUN THE DASHBOARD DOWNLOAD : DATA.SURVERY.PBIX AND RUN IT ON POWERBI.
+# 🗂️ Project Structure : 
 
 
 <img width="994" height="1541" alt="powerbi draw drawio" src="https://github.com/user-attachments/assets/3a1a271c-267c-4093-ab2d-2f53a98719c6" />
