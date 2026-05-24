@@ -165,14 +165,20 @@ Applying final optimizations before loading the data model into Power BI.
 
 
 ---
+##
+📊 Power BI Dashboard Project – Data Professionals Survey
 
-##📊 Power BI Dashboard Project – Data Professionals Survey
+
 
 This dashboard project is based on a survey of approximately 700 data professionals from different countries and industries. The survey collected responses about career paths, salaries, job satisfaction, programming languages, and overall experiences working in the data field.
-
 Using Power BI, I transformed the raw survey data into an interactive dashboard that highlights the most important insights and trends through data visualization and analytical thinking.
+
 ---
-##🔍 Key Insights Included in the Dashboard
+
+##
+🔍 Key Insights Included in the Dashboard
+
+
 How professionals entered the data industry
 Current job satisfaction levels
 Salary satisfaction analysis
@@ -181,9 +187,10 @@ Participants’ countries and industries
 Favorite programming languages
 Career and work-related trends in the data field
 ---
+##
+📈 Dashboard Goals
 
-##📈 Dashboard Goals
-The goal of this project was to:
+
 
 Practice data cleaning and transformation
 Build interactive and user-friendly visualizations
