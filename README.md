@@ -159,13 +159,13 @@ Combining multiple tables and datasets into a complete data model.
 Applying final optimizations before loading the data model into Power BI.
 
 
+
+
+
+
+
 ---
 
-
-
-
----
-##
 📊 Power BI Dashboard Project – Data Professionals Survey
 
 
@@ -175,7 +175,7 @@ Using Power BI, I transformed the raw survey data into an interactive dashboard 
 
 ---
 
-##
+
 🔍 Key Insights Included in the Dashboard
 
 
@@ -187,7 +187,7 @@ Participants’ countries and industries
 Favorite programming languages
 Career and work-related trends in the data field
 ---
-##
+
 📈 Dashboard Goals
 
 
@@ -199,7 +199,7 @@ Improve storytelling and analytical thinking skills using Power BI
 ---
 
 
----
+
 
 # 👨‍💻 Author
 
