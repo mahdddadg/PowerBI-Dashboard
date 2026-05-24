@@ -8,15 +8,19 @@ I am passionate about **Data Analytics**, **Business Intelligence**, and also hi
 🔗 Connect with me:
 
 LinkedIn: [https://www.linkedin.com/in/mahdi-dehlaghi-24b7153a2](https://www.linkedin.com/in/mahdi-dehlaghi-24b7153a2)
+
 Email : [dehlaghimahdi@gmail.com](mailto:dehlaghimahdi@gmail.com)
 
-This project reflects my workflow and experience in building professional Power BI projects, including data cleaning, transformation, modeling, and dashboard visualization.
+check out my compelet , Datawarehouse project , EDA project and Advanced Analysis project on GIT :
+https://github.com/mahdddadg
+
+
 
 ---
 
 # 📌 Project Overview
 
-This project focuses on using **Power BI** and **Power Query** to clean, transform, and visualize raw business data into interactive dashboards and meaningful business insights.
+This project focuses on using **Power BI** and **Power Query** to clean, transform, and visualize raw data into interactive dashboards and meaningful  insights.
 
 The objective of this project is to:
 
@@ -30,13 +34,20 @@ This project demonstrates a complete **data preparation and dashboard developmen
 
 ---
 
-<img width="1155" height="1291" alt="Power Query Workflow" src="YOUR_IMAGE_LINK_HERE" />
+
+
+img
+
+
 
 ---
 
 # 🗂️ Project Structure
 
-The project is divided into the following stages:
+
+<img width="994" height="1541" alt="powerbi draw drawio" src="https://github.com/user-attachments/assets/3a1a271c-267c-4093-ab2d-2f53a98719c6" />
+
+
 
 ---
 
@@ -164,41 +175,10 @@ Applying final optimizations before loading the data model into Power BI.
 
 After cleaning and transforming the data, interactive dashboards are built inside Power BI to visualize business insights and KPIs.
 
-### 📈 Dashboard Features
-
-* Interactive charts
-* KPI monitoring
-* Dynamic filtering
-* Business performance tracking
-* Drill-through analysis
-* Data storytelling
 
 ---
 
-# 🛠️ Tools & Technologies
 
-## ⚙️ Technologies Used
-
-* Power BI
-* Power Query
-* DAX
-* Data Modeling
-* ETL Process
-
----
-
-# 🎯 Project Goals
-
-## ✅ Objectives
-
-* Improve data quality
-* Build reliable datasets
-* Create professional dashboards
-* Support business decision-making
-* Practice Business Intelligence workflows
-* Develop scalable Power BI solutions
-
----
 
 # 🏗️ ETL & Data Preparation Workflow
 
@@ -214,28 +194,6 @@ This project follows a structured ETL workflow inside Power BI:
 6. Final Cleanup
 7. Dashboard Visualization
 
-This workflow helps ensure:
-
-* Cleaner datasets
-* Better performance
-* Accurate reporting
-* Easier maintenance
-* Scalable BI solutions
-
----
-
-# 📂 Project Structure
-
-```bash
-📁 PowerBI-Project
-│
-├── 📁 Data
-├── 📁 Power Query Files
-├── 📁 Dashboard Screenshots
-├── 📁 Documentation
-├── 📄 README.md
-└── 📄 Dashboard.pbix
-```
 
 ---
 
@@ -243,26 +201,9 @@ This workflow helps ensure:
 
 ## **Mahdi Dehlaghi**
 
-### Data Analyst | Power BI Developer
+### Data Analyst 
 
 ---
 
-# ⭐ Support
 
-If you found this project useful, feel free to:
-
-* ⭐ Star the repository
-* 🍴 Fork the project
-* 🔗 Connect with me on LinkedIn
-
----
-
-# 📌 Notes
-
-This repository mainly focuses on:
-
-* Power Query workflows
-* Data cleaning techniques
-* Data transformation processes
-* Dashboard development practices
-* Business Intelligence project structure
+All this project is made with hardwork so please keep the information provided foe pesonal usage , not to share or re-use in any other field , thnaks !!!
