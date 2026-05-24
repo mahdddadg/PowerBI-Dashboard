@@ -20,7 +20,7 @@ https://github.com/mahdddadg
 
 # 📌 Project Overview
 
-This project focuses on using **Power BI** and **Power Query** to clean, transform, and visualize raw data into interactive dashboards and meaningful  insights.
+This project focuses on using **Power BI** and **Power Query** to clean in this specic project i did not use SQL, transform, and visualize raw data into interactive dashboards and meaningful  insights.
 
 The objective of this project is to:
 
@@ -30,19 +30,21 @@ The objective of this project is to:
 * Improve data quality and reporting
 * Practice ETL and Business Intelligence workflows
 
-This project demonstrates a complete **data preparation and dashboard development process** inside Power BI.
+
+This project demonstrates a complete **data preparation and dashboard development process** inside Power BI: 
 
 ---
 
 
 
-img
 
+
+<img width="2617" height="1474" alt="Screenshot 2026-05-23 183600" src="https://github.com/user-attachments/assets/c8d39d86-4f86-4a9e-9906-27e9be271456" />
 
 
 ---
 
-# 🗂️ Project Structure
+# 🗂️ Project Structure : ***** IN ORDER TO RUN THE DASHBOARD DOWNLOAD : DATA.SURVERY.PBIX AND RUN IT ON POWERBI.
 
 
 <img width="994" height="1541" alt="powerbi draw drawio" src="https://github.com/user-attachments/assets/3a1a271c-267c-4093-ab2d-2f53a98719c6" />
