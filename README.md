@@ -22,6 +22,12 @@ https://github.com/mahdddadg
 
 This project focuses on using **Power BI** and **Power Query** to clean in this specic project (I did not use SQL for this project), To transform, and visualize raw data into interactive dashboards and meaningful  insights.
 
+Important note :
+This project Dose not provide 1) Data modeling and 2) DAX -- This project demenstrate the only usage of power query in ordr to clean the source data and do a quick visualization !
+
+
+
+
 The objective of this project is to:
 
 * Clean and prepare raw datasets
