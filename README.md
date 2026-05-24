@@ -158,43 +158,37 @@ Combining multiple tables and datasets into a complete data model.
 
 Applying final optimizations before loading the data model into Power BI.
 
-### 📌 Tasks
-
-* Remove unnecessary columns
-* Rename tables and columns
-* Reorder columns logically
-
-### 🧠 Power Query Concepts Used
-
-* Query optimization
-* Data organization
-* Naming conventions
-* Final model preparation
-
----
-
-# 📊 Dashboard Development
-
-After cleaning and transforming the data, interactive dashboards are built inside Power BI to visualize business insights and KPIs.
-
 
 ---
 
 
 
-# 🏗️ ETL & Data Preparation Workflow
 
-This project follows a structured ETL workflow inside Power BI:
+---
 
-### 🔄 Workflow Stages
+📊 Power BI Dashboard Project – Data Professionals Survey
 
-1. Connect Data
-2. Filter Data
-3. Clean Data
-4. Transform Data
-5. Combine Data
-6. Final Cleanup
-7. Dashboard Visualization
+This dashboard project is based on a survey of approximately 700 data professionals from different countries and industries. The survey collected responses about career paths, salaries, job satisfaction, programming languages, and overall experiences working in the data field.
+
+Using Power BI, I transformed the raw survey data into an interactive dashboard that highlights the most important insights and trends through data visualization and analytical thinking.
+
+🔍 Key Insights Included in the Dashboard
+How professionals entered the data industry
+Current job satisfaction levels
+Salary satisfaction analysis
+Average salaries across different roles
+Participants’ countries and industries
+Favorite programming languages
+Career and work-related trends in the data field
+📈 Dashboard Goals
+
+The goal of this project was to:
+
+Practice data cleaning and transformation
+Build interactive and user-friendly visualizations
+Analyze survey responses to uncover meaningful insights
+Improve storytelling and analytical thinking skills using Power BI
+
 
 
 ---
